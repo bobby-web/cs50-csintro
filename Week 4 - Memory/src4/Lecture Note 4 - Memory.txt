@@ -1,0 +1,31 @@
+tMemory
+
+Chapter:
+1. Intro
+2. Hex
+3. RGB
+4. Memory
+5. Address
+    Pointer is data type that storing an address
+    Using "ampersand" (&) operator to acquire target address
+    using "star" (*) operator to access & manipulate target address
+6. Pointers
+7. Stings
+8. compare.c
+9. copy.c
+10. malloc
+11. free
+12. valgrind
+13. Garbage Values
+14. Binky
+15. swap.c
+16. Memory Layout
+17. Stack Overflow
+18. mario.c
+19. Buffer Overflow
+20. scanf
+21. File I/O
+22. Enhance
+23. fread
+24. fwrite
+25. Problem Set 4

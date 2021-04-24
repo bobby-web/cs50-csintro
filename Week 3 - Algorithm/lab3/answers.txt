@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Best Case Faster Than Worst Case
+
+sort2 uses: Merge Sort
+
+How do you know?: Best Case, Worst Case, And Random Case Growth in nlogn Time
+
+sort3 uses: Selection Sort
+
+How do you know?: Worst Case, Average, Case, and Best Case All
